@@ -1,0 +1,17 @@
+[
+    {
+        "nama":"Hilichurl",
+        "hp":100,
+        "atk":10
+    },
+    {
+        "nama":"Abyss Mage",
+        "hp":200,
+        "atk":30
+    },
+    {
+        "nama":"Ruin Guard",
+        "hp":500,
+        "atk":50
+    }
+]
