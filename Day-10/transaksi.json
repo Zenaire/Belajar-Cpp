@@ -1,0 +1,25 @@
+{
+    "saldo": 120000,
+    "transaksi": [
+        {
+            "deskripsi": "Gaji Freelance",
+            "jenis": "masuk",
+            "jumlah": 50000
+        },
+        {
+            "deskripsi": "Beli Makan",
+            "jenis": "keluar",
+            "jumlah": 25000
+        },
+        {
+            "deskripsi": "lootingdijalan",
+            "jenis": "masuk",
+            "jumlah": 5000
+        },
+        {
+            "deskripsi": "MiNas",
+            "jenis": "keluar",
+            "jumlah": 10000
+        }
+    ]
+}
